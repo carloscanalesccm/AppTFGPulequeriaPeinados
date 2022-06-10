@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "304841769019",
+    "project_id": "pelupeinadosbdd",
+    "storage_bucket": "pelupeinadosbdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304841769019:android:d7001b31f9959d0ad89c1e",
+        "android_client_info": {
+          "package_name": "com.example.apppulequeriapeinados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304841769019-koqvk3ofn42usichvunlim20gmiibhlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCLJV2Qmrwmr8lqDg-3sLJ3c5zjlHKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304841769019-koqvk3ofn42usichvunlim20gmiibhlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304841769019:android:7c5773125b739e9ed89c1e",
+        "android_client_info": {
+          "package_name": "com.example.canalesmanzanocarlos_proyectofinalv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304841769019-koqvk3ofn42usichvunlim20gmiibhlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCLJV2Qmrwmr8lqDg-3sLJ3c5zjlHKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304841769019-koqvk3ofn42usichvunlim20gmiibhlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
